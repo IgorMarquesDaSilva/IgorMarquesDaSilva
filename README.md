@@ -1,6 +1,6 @@
 # Olá! Eu sou o Igor Marques da Silva 👋
 
-### Desenvolvedor em formação | Foco em Back-end
+### Desenvolvedor em formação | Foco em Back-end e Front-end
 
 - 📍 Brasil
 - 🎓 Cursando AMS — Análise e Desenvolvimento de Sistemas 
