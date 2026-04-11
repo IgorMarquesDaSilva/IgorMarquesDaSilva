@@ -32,9 +32,9 @@
 
 ## 📊 Minhas estatísticas
 
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&hide_border=true)
+![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorMarquesDaSilva&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarquesDaSilva&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
