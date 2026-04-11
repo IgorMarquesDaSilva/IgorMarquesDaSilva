@@ -3,7 +3,7 @@
 ### Desenvolvedor em formação | Foco em Back-end
 
 - 📍 Brasil
-- 🎓 Cursando ADS — Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando AMS — Análise e Desenvolvimento de Sistemas 
 - 🏆 Técnico em Análise e Desenvolvimento de Sistemas
 - 🎂 18 anos
 
