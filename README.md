@@ -30,14 +30,6 @@
 
 ---
 
-## 📊 Minhas estatísticas
-
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorMarquesDaSilva&show_icons=true&theme=dracula&hide_border=true&count_private=true)    
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMarquesDaSilva&layout=compact&theme=dracula&hide_border=true)
-
----
-
 ## 📬 Contato
 
 Fique à vontade para me chamar pelo LinkedIn ou abrir uma issue em algum repositório!
