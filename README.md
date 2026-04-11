@@ -32,7 +32,7 @@
 
 ## 📬 Contato
 
-Fique à vontade para me chamar pelo LinkedIn ou abrir uma issue em algum repositório!
+ighormarques21@gmail.com
     
 <!--
 **IgorMarquesDaSilva/IgorMarquesDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
