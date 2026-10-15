@@ -1,50 +1,43 @@
-# Olá! Eu sou o Igor Marques da Silva 👋
+# Igor Marques da Silva
 
-### Desenvolvedor em formação | Foco em Back-end e Front-end
+**Desenvolvedor de software em formação | Back-end e aplicações web**
 
-- 📍 Brasil
-- 🎓 Cursando AMS — Análise e Desenvolvimento de Sistemas 
-- 🏆 Técnico em Análise e Desenvolvimento de Sistemas
-- 🎂 18 anos
+Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso AMS em Análise e Desenvolvimento de Sistemas. Desenvolvo projetos que envolvem APIs, bancos de dados, autenticação, comunicação em tempo real e interfaces web. Meu foco é continuar evoluindo em desenvolvimento back-end e na construção de aplicações úteis e bem estruturadas.
 
----
+## Projetos em destaque
 
-> 🚀 Meu objetivo é me tornar um desenvolvedor **Back-end** sólido.
-> Atualmente aprofundando meus conhecimentos em lógica, banco de dados e
-> desenvolvimento server-side — com planos de aprender **Java** em breve.
+### [FINCONTROL](https://github.com/IgorMarquesDaSilva/FINCONTROL)
 
----
+Aplicação web de organização financeira com cadastro de receitas e despesas, histórico de movimentações e saldo atualizado. Inclui autenticação, sessões em cookies `httpOnly`, validação de dados e testes automatizados.
 
-## 🛠️ Tecnologias que já usei
+**Tecnologias:** Node.js, Express, MySQL, JavaScript, HTML e CSS.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-178600?style=flat&logo=c-sharp&logoColor=white)
+### [Beehive](https://github.com/IgorMarquesDaSilva/Beehive)
 
-## 📚 Aprendendo em breve
+Plataforma acadêmica de comunicação para equipes, com chat em tempo real, canais privados, chamadas de voz e compartilhamento de arquivos. O projeto reúne controle de acesso, persistência de mensagens e comunicação via WebRTC.
 
-![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white)
+**Tecnologias:** Node.js, Express, Socket.IO, WebRTC e MySQL.
 
----
+### [AEED-Bruno](https://github.com/IgorMarquesDaSilva/AEED-Bruno)
 
-## 📬 Contato
+Plataforma de ensino de estruturas de dados com aulas, quizzes, acompanhamento de resultados e recursos de gamificação. Conta com cadastro de usuários, persistência em banco de dados e testes para os principais fluxos.
 
-ighormarques21@gmail.com
-    
-<!--
-**IgorMarquesDaSilva/IgorMarquesDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tecnologias:** PHP, MySQL, HTML, CSS e JavaScript.
 
-Here are some ideas to get you started:
+### [Bug Hunters](https://github.com/IgorMarquesDaSilva/Bug-Hunters)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jogo educativo de lógica de programação para estudantes do Ensino Fundamental. As missões usam Portugol, oferecem feedback imediato e podem ser acessadas por teclado, com opções de contraste, tamanho de fonte e narração.
+
+**Tecnologias:** HTML, CSS, JavaScript, Canvas 2D e Web Audio API.
+
+## Tecnologias
+
+- **Back-end:** Node.js, Express e PHP.
+- **Banco de dados:** MySQL.
+- **Front-end:** HTML, CSS e JavaScript.
+- **Outras experiências:** C#, Socket.IO e WebRTC.
+
+## Contato
+
+- **E-mail:** [ighormarques21@gmail.com](mailto:ighormarques21@gmail.com)
+- **GitHub:** [@IgorMarquesDaSilva](https://github.com/IgorMarquesDaSilva)
