@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="225" viewBox="0 0 560 225" role="img" aria-labelledby="title desc">
+  <title id="title">Beehive</title>
+  <desc id="desc">Comunicação em equipe com chat em tempo real, canais privados e chamadas de voz.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1">
+      <stop stop-color="#111E2C"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="560" height="225" rx="18"/></clipPath>
+  </defs>
+  <style>text { font-family: 'Segoe UI', Arial, sans-serif; }</style>
+  <g clip-path="url(#clip)">
+    <rect x="1" y="1" width="558" height="223" rx="18" fill="url(#surface)" stroke="#2B3C50" stroke-width="2"/>
+    <rect width="6" height="225" fill="#A78BFA"/>
+    <circle cx="490" cy="78" r="62" fill="#A78BFA" opacity=".06"/>
+    <g fill="none" stroke="#A78BFA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M466 50l28 16v32l-28 16-28-16V66z" /><path d="M438 66l28 16 28-16M466 82v32" /></g>
+    <text x="28" y="42" fill="#A78BFA" font-size="13" font-weight="700" letter-spacing="2.2">TEMPO REAL</text>
+    <text x="520" y="42" fill="#698299" font-size="14" text-anchor="end">02 / 04</text>
+    <text x="28" y="88" fill="#F0F5FA" font-size="31" font-weight="700">Beehive</text>
+    <text x="28" y="126" fill="#AFBECD" font-size="16.5">Comunicação em equipe com chat em tempo real,</text>
+    <text x="28" y="150" fill="#AFBECD" font-size="16.5">canais privados e chamadas de voz.</text>
+    <path d="M28 179H532" stroke="#33465B"/>
+    <circle cx="34" cy="201" r="4" fill="#A78BFA"/>
+    <text x="49" y="206" fill="#D7E3EC" font-size="14">Socket.IO  ·  WebRTC  ·  MySQL</text>
+  </g>
+</svg>

@@ -1,43 +1,66 @@
-# Igor Marques da Silva
+<p align="center">
+  <img src="./assets/hero.svg" alt="Igor Marques da Silva — desenvolvimento back-end, APIs e aplicações web" width="100%">
+</p>
 
-**Desenvolvedor de software em formação | Back-end e aplicações web**
+<p align="center">
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#atividade-no-github">Atividade</a> ·
+  <a href="#contato">Contato</a>
+</p>
 
-Sou técnico em Análise e Desenvolvimento de Sistemas e atualmente curso AMS em Análise e Desenvolvimento de Sistemas. Desenvolvo projetos que envolvem APIs, bancos de dados, autenticação, comunicação em tempo real e interfaces web. Meu foco é continuar evoluindo em desenvolvimento back-end e na construção de aplicações úteis e bem estruturadas.
+## Sobre mim
+
+Sou técnico em Análise e Desenvolvimento de Sistemas e curso AMS na área. Desenvolvo aplicações web com foco em back-end, autenticação, bancos de dados e comunicação em tempo real. Gosto de transformar ideias em projetos funcionais, com código organizado e interfaces fáceis de usar.
 
 ## Projetos em destaque
 
-### [FINCONTROL](https://github.com/IgorMarquesDaSilva/FINCONTROL)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/IgorMarquesDaSilva/FINCONTROL">
+        <img src="./assets/fincontrol.svg" alt="FINCONTROL: controle financeiro com receitas, despesas e autenticação. Node.js, Express e MySQL." width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/IgorMarquesDaSilva/Beehive">
+        <img src="./assets/beehive.svg" alt="Beehive: comunicação para equipes com chat, canais privados e chamadas de voz. Socket.IO, WebRTC e MySQL." width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/IgorMarquesDaSilva/AEED-Bruno">
+        <img src="./assets/aeed-bruno.svg" alt="AEED-Bruno: ensino de estruturas de dados com quizzes e gamificação. PHP e MySQL." width="100%">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/IgorMarquesDaSilva/Bug-Hunters">
+        <img src="./assets/bug-hunters.svg" alt="Bug Hunters: jogo educativo de lógica em Portugol com recursos de acessibilidade. JavaScript e Canvas 2D." width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
-Aplicação web de organização financeira com cadastro de receitas e despesas, histórico de movimentações e saldo atualizado. Inclui autenticação, sessões em cookies `httpOnly`, validação de dados e testes automatizados.
+## Atividade no GitHub
 
-**Tecnologias:** Node.js, Express, MySQL, JavaScript, HTML e CSS.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorMarquesDaSilva&amp;theme=github_dark&amp;name=Igor%20Marques&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=26354A&amp;icon_color=38BDF8&amp;chart_color=38BDF8&amp;animation=draw" alt="Gráfico atualizado da atividade de Igor no GitHub" width="700">
+</p>
 
-### [Beehive](https://github.com/IgorMarquesDaSilva/Beehive)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IgorMarquesDaSilva&amp;theme=github_dark&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=26354A&amp;icon_color=38BDF8&amp;chart_color=38BDF8&amp;animation=draw" alt="Estatísticas públicas atualizadas do GitHub" width="340">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IgorMarquesDaSilva&amp;theme=github_dark&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=26354A&amp;icon_color=38BDF8&amp;chart_color=38BDF8&amp;animation=draw" alt="Gráfico atualizado das linguagens presentes nos repositórios públicos" width="340">
+</p>
 
-Plataforma acadêmica de comunicação para equipes, com chat em tempo real, canais privados, chamadas de voz e compartilhamento de arquivos. O projeto reúne controle de acesso, persistência de mensagens e comunicação via WebRTC.
-
-**Tecnologias:** Node.js, Express, Socket.IO, WebRTC e MySQL.
-
-### [AEED-Bruno](https://github.com/IgorMarquesDaSilva/AEED-Bruno)
-
-Plataforma de ensino de estruturas de dados com aulas, quizzes, acompanhamento de resultados e recursos de gamificação. Conta com cadastro de usuários, persistência em banco de dados e testes para os principais fluxos.
-
-**Tecnologias:** PHP, MySQL, HTML, CSS e JavaScript.
-
-### [Bug Hunters](https://github.com/IgorMarquesDaSilva/Bug-Hunters)
-
-Jogo educativo de lógica de programação para estudantes do Ensino Fundamental. As missões usam Portugol, oferecem feedback imediato e podem ser acessadas por teclado, com opções de contraste, tamanho de fonte e narração.
-
-**Tecnologias:** HTML, CSS, JavaScript, Canvas 2D e Web Audio API.
-
-## Tecnologias
-
-- **Back-end:** Node.js, Express e PHP.
-- **Banco de dados:** MySQL.
-- **Front-end:** HTML, CSS e JavaScript.
-- **Outras experiências:** C#, Socket.IO e WebRTC.
+<sub>Dados públicos do GitHub, atualizados automaticamente por <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a>.</sub>
 
 ## Contato
 
-- **E-mail:** [ighormarques21@gmail.com](mailto:ighormarques21@gmail.com)
-- **GitHub:** [@IgorMarquesDaSilva](https://github.com/IgorMarquesDaSilva)
+<p>
+  <a href="mailto:ighormarques21@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-ighormarques21%40gmail.com-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail para Igor">
+  </a>
+  <a href="https://github.com/IgorMarquesDaSilva">
+    <img src="https://img.shields.io/badge/GitHub-IgorMarquesDaSilva-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visitar o GitHub de Igor">
+  </a>
+</p>

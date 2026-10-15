@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="225" viewBox="0 0 560 225" role="img" aria-labelledby="title desc">
+  <title id="title">Bug Hunters</title>
+  <desc id="desc">Jogo de lógica em Portugol com missões, feedback imediato e recursos acessíveis.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1">
+      <stop stop-color="#111E2C"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="560" height="225" rx="18"/></clipPath>
+  </defs>
+  <style>text { font-family: 'Segoe UI', Arial, sans-serif; }</style>
+  <g clip-path="url(#clip)">
+    <rect x="1" y="1" width="558" height="223" rx="18" fill="url(#surface)" stroke="#2B3C50" stroke-width="2"/>
+    <rect width="6" height="225" fill="#FBBF24"/>
+    <circle cx="490" cy="78" r="62" fill="#FBBF24" opacity=".06"/>
+    <g fill="none" stroke="#FBBF24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M446 64l-12 12 12 12M486 64l12 12-12 12M474 55l-16 42" /></g>
+    <text x="28" y="42" fill="#FBBF24" font-size="13" font-weight="700" letter-spacing="2.2">JOGO EDUCATIVO</text>
+    <text x="520" y="42" fill="#698299" font-size="14" text-anchor="end">04 / 04</text>
+    <text x="28" y="88" fill="#F0F5FA" font-size="31" font-weight="700">Bug Hunters</text>
+    <text x="28" y="126" fill="#AFBECD" font-size="16.5">Jogo de lógica em Portugol com missões,</text>
+    <text x="28" y="150" fill="#AFBECD" font-size="16.5">feedback imediato e recursos acessíveis.</text>
+    <path d="M28 179H532" stroke="#33465B"/>
+    <circle cx="34" cy="201" r="4" fill="#FBBF24"/>
+    <text x="49" y="206" fill="#D7E3EC" font-size="14">JavaScript  ·  Canvas 2D  ·  Acessibilidade</text>
+  </g>
+</svg>
